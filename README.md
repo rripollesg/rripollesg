@@ -6,6 +6,9 @@ Web developer, testing, implantador
 
 *   🌍  I'm based in Valencia
 *   🖥️  See my portfolio at [Mi portfolio](http://rripollesg.github.io/portfolio/)
+*   <img src="https://img.shields.io/badge/Lives-Spain-success" />
+*   <img src="https://img.shields.io/badge/Languages-English%20%26%20Espa%C3%B1ol-brightgreen" /> 
+
 
 ### Skills 
 <p align="left">
