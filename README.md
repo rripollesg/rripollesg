@@ -33,3 +33,5 @@ Web developer, testing, implantador
 <b>My GitHub Stats</b><br/>
 <a href="http://www.github.com/rripollesg"><img src="https://github-readme-stats.vercel.app/api?username=rripollesg&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rripollesg's GitHub stats" /></a>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rripollesg&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
