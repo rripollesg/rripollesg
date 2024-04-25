@@ -4,9 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer, testing, implantador
 -----------------------------------
 
-*   🌍  I'm based in Valencia
 *   🖥️  See my portfolio at [Mi portfolio](http://rripollesg.github.io/portfolio/)
-*   <img src="https://img.shields.io/badge/Lives-Spain-success" />
+*   🌍<img src="https://img.shields.io/badge/Lives-Spain-success" />
 *   <img src="https://img.shields.io/badge/Languages-English%20%26%20Espa%C3%B1ol-brightgreen" /> 
 
 
