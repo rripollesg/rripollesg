@@ -4,7 +4,7 @@ Hi 👨‍💻My name is Raul Ripolles
 Web developer, testing, implantador
 -----------------------------------
 
-*   🖥️  See my portfolio at [Mi portfolio](http://rripollesg.github.io/portfolio/)
+   🖥️  See my portfolio at [Mi portfolio](http://rripollesg.github.io/portfolio/)
    <img src="https://img.shields.io/badge/Lives-Spain-success" />
    <img src="https://img.shields.io/badge/Languages-English%20%26%20Espa%C3%B1ol-brightgreen" /> 
 
