@@ -32,3 +32,7 @@ Web developer, testing, implantador
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rripollesg&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🔥 Streak Stats
+
+![Berkeli's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=rripollesg&theme=tokyonight)
