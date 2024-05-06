@@ -34,4 +34,4 @@ Web developer, testing, implantador
 ### 🔥 Streak Stats
 
 ![Berkeli's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=rripollesg&theme=tokyonight)
-![](https://github-profile-trophy.vercel.app/?username=rripollesg&row=2&column=4&theme=onedark&no-frame=false&margin-w=4)(https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rripollesg&row=2&column=4&theme=onedark&no-frame=false&margin-w=4))](https://github.com/ryo-ma/github-profile-trophy)
