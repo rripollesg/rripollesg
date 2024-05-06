@@ -7,8 +7,8 @@ Web developer, testing, implantador
    🖥️  See my portfolio at [Mi portfolio](http://rripollesg.github.io/portfolio/)<br/>
    <img src="https://img.shields.io/badge/Lives-Spain-success" />
    <img src="https://img.shields.io/badge/Languages-English%20%26%20Espa%C3%B1ol-brightgreen" /> 
+   <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
    <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=rripollesg&label=Views&color=blue&style=plastic&style=for-the-badge" alt="rripollesg" /> </p>-->
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
 ### Skills 
