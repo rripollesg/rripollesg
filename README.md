@@ -35,4 +35,4 @@ Web developer, testing, implantador
 
 ### 🔥 Streak Stats
 
-![Berkeli's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=rripollesg&row=2&column=3&theme=tokyonight)
+![Berkeli's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=rripollesg&theme=tokyonight)
