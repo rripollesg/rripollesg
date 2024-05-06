@@ -31,6 +31,8 @@ Web developer, testing, implantador
 <b>My GitHub Stats</b><br/>
 <a href="http://www.github.com/rripollesg"><img src="https://github-readme-stats.vercel.app/api?username=rripollesg&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rripollesg's GitHub stats" /></a>
 
+[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rripollesg&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ 
 ### 🔥 Streak Stats
 
 ![Berkeli's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=rripollesg&theme=tokyonight)
