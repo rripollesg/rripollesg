@@ -7,6 +7,7 @@ Web developer, testing, implantador
    🖥️  See my portfolio at [Mi portfolio](http://rripollesg.github.io/portfolio/)<br/>
    <img src="https://img.shields.io/badge/Lives-Spain-success" />
    <img src="https://img.shields.io/badge/Languages-English%20%26%20Espa%C3%B1ol-brightgreen" /> 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
 ### Skills 
@@ -29,7 +30,6 @@ Web developer, testing, implantador
                     </a></p>
 <b>My GitHub Stats</b><br/>
 <a href="http://www.github.com/rripollesg"><img src="https://github-readme-stats.vercel.app/api?username=rripollesg&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rripollesg's GitHub stats" /></a>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 ### 🔥 Streak Stats
 
