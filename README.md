@@ -7,6 +7,7 @@ Web developer, testing, implantador
    🖥️  See my portfolio at [Mi portfolio](http://rripollesg.github.io/portfolio/)<br/>
    <img src="https://img.shields.io/badge/Lives-Spain-success" />
    <img src="https://img.shields.io/badge/Languages-English%20%26%20Espa%C3%B1ol-brightgreen" /> 
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=rripollesg&label=Views&color=blue&style=plastic&style=for-the-badge" alt="rripollesg" /> </p>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
@@ -37,3 +38,9 @@ Web developer, testing, implantador
 
 ![Berkeli's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=rripollesg&theme=tokyonight)
 [![trophy](https://github-profile-trophy.vercel.app/?username=rripollesg&row=2&column=4&theme=onedark&no-frame=false&margin-w=4))](https://github.com/ryo-ma/github-profile-trophy)
+
+### Github Profile Summary Card
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rripollesg&theme=onedark"/>
+</p>
