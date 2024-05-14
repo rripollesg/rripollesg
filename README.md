@@ -1,3 +1,5 @@
+<p align="center"><img width=100% src="https://github.com/rripollesg/rripollesg/blob/main/Banner_rrg.png"></p>
+
 Hi 👨‍💻My name is Raul Ripolles
 =====================================================================================================================================
 
